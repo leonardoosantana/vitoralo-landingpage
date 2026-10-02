@@ -18,21 +18,3 @@ Esta interface web foi estruturada com foco na experiência do utilizador (UX) e
 * **Tailwind CSS:** Estilização utilitária para um design consistente e ágil.
 * **JavaScript (ES6+):** Lógica de interatividade da página.
 
-## 🚀 Como executar o projeto localmente
-
-Para clonar e executar esta aplicação, precisará do [Git](https://git-scm.com) e do [Node.js](https://nodejs.org/en/) instalados no seu computador.
-
-No seu terminal de linha de comandos:
-
-```bash
-# Clonar este repositório
-$ git clone [https://github.com/leonardoosantana/nome-do-seu-repositorio.git](https://github.com/leonardoosantana/nome-do-seu-repositorio.git)
-
-# Aceder à pasta do projeto no terminal
-$ cd nome-do-seu-repositorio
-
-# Instalar as dependências
-$ npm install
-
-# Executar a aplicação em modo de desenvolvimento
-$ npm run dev
